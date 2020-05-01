@@ -7,9 +7,13 @@ A PowerPoint presentation is available in the repository which shows the Visuali
 ## Documentation
 
 [pandas](https://pandas.pydata.org/) library
+
 [numpy](https://numpy.org/doc/) library
+
 [matplotlib](https://matplotlib.org/3.2.1/contents.html) library
+
 [scipy](https://www.scipy.org/) library
+
 [seaborn](https://seaborn.pydata.org/) library
 
 ## Library Installation 
